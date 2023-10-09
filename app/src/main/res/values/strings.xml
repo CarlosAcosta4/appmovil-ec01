@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppAcostaCarlos</string>
+    <string name="valueCalcular" />
+    <string name="valbtncalcular">CALCULAR</string>
+    <string name="valtext">CALCULAR SALARIO SEMANAL</string>
+    <string name="valrpta">Ingrese sus horas trabajadas</string>
+    <string name="valTitulo">CALCULAR EL TIEMPO EN SEGUNDOS</string>
+    <string name="ingreso">Ingresar el tiempo en segundos</string>
+</resources>
